@@ -1,4 +1,4 @@
-# ml_cousre
+# ml_course
 Course "Practical Introduction to Machine Learning with Python" at Faculty of Mathematis and Informatics, Sofia University.               
 Elective course for bachelor students. 
 
